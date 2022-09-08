@@ -1,5 +1,5 @@
 #include <stdio.h>
-/***
+/**
  * main - Entry ponit
  *
  * Description: Prints the size of the various data types in C
