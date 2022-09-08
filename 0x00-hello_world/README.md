@@ -7,4 +7,14 @@ This repository basically covers the introduction of C programming with the vari
 
 * Ex2: gcc -S $CFILE  generate assemblage code from the source code 
 
-* Ex3: gcc $CFILE -o cisfun  compile the source code to generate the executable file cisfun 
+* Ex3: gcc $CFILE -o cisfun  compile the source code to generate the executable file cisfun
+
+* Ex4: Contains C code that prints a text using puts 
+
+* Ex5: shows C code that prints a text by using printf 
+
+* Ex6: Contain the code for a program that displays the size of the various data types in C eg. char, int, long long int
+
+* Ex7: gcc -S -masm=intel $CFILE  shows the compilation of C code in intel syntax 
+
+* Ex8: Code for a program that displays a text with the write funtion. I use the string.h to determine the size of the text with strlen 
