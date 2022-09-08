@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * Description: Prints text without using printt or puts 
+ * Description: Prints text without using printt or puts
  *
  *  Return: Always 1 (Sucess)
  *
@@ -16,6 +16,5 @@ int main(void)
 	int s = strlen(text);
 
 	write(2, text, s);
-	
 	return (1);
 }
