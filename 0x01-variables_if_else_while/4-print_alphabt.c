@@ -4,7 +4,6 @@
  *
  * Description: Use putchar funtion to print
  * all letters but the letter 'q' and 'e'.
- * 
  * Return: Always 0 (Success)
  *
  */
