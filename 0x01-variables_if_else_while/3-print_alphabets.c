@@ -2,7 +2,7 @@
 /**
  * main - Entry points
  *
- * Description: Prints alphabet in lowercase and 
+ * Description: Prints alphabet in lowercase and
  * then uppercase, followed by new line
  *
  * Return: Always 0 (Success)
@@ -10,8 +10,10 @@
  */
 int main(void)
 {
-	char a = 'a';
-        char b = 'A';
+	char a, b;
+
+	a = 'a';
+	b = 'A';
 
 	while (a <= 'z')
 	{
