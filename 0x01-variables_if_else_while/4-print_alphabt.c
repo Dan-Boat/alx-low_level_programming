@@ -15,7 +15,7 @@ int main(void)
 	{
 		if (a != 'q' && a != 'e')
 			putchar(a);
-		c++;
+		a++;
 	}
 	putchar('\n');
 
