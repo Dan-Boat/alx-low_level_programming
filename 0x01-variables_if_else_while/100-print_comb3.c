@@ -4,7 +4,6 @@
  * Description: Print all possible combinations of two digits.
  * 01 and 10 are considered as the same combination of the two digits.
  * Print only the smallest combination of two digits.
- * 
  * Return: 0
  */
 int main(void)
