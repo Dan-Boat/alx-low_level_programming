@@ -6,8 +6,7 @@
  */
 int print_last_digit(int n)
 {
-	int last;
-	
+	int last;	
 	/* check if the number is negative*/
 	if (n < 0)
 	{
