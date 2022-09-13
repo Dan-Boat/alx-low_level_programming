@@ -8,7 +8,7 @@ void print_alphabet_x10(void)
 	int i = 0;
 	char start;
 
-	while (i <= 10)
+	while (i < 10)
 	{
 		/* intialize just before the while func*/
 		start = 'a';
