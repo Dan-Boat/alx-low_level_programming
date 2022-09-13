@@ -24,3 +24,4 @@ int main(void)
 
 		k = j;
 	}
+}
