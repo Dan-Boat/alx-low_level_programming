@@ -2,7 +2,8 @@
 
 /**
 * print_diagonal - draws a diagonal line on the terminal with spaces before \
-* @n: number of times the character \ should be printed
+* character \ should be printed
+* @n: int type number
 */
 void print_diagonal(int n)
 {
