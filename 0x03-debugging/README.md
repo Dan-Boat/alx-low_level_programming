@@ -5,4 +5,8 @@ This repository contains the files for the debugging exercise.
 
 * 1-main shows a commented portion of the code that result in the infile running of the loop 
 
-* 
+* 2-largest_number contains the code that accepts 3 integers and print the largest among them 
+
+* 3-print_remaining_days takes a date and prints how many days are left in the year, taking leap years into account
+
+* main.h is the local header file that decalares all the function in the compilling 
