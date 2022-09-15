@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_diagonal - draws a diagonal line on the terminal with spaces before \
- * @n: number of times the character \ should be printed
- */
+* print_diagonal - draws a diagonal line on the terminal with spaces before \
+* @n: number of times the character \ should be printed
+*/
 void print_diagonal(int n)
 {
 	if (n <= 0)
