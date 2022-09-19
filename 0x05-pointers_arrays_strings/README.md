@@ -21,3 +21,7 @@ This exercises  shows how to use pointers and arrays in C.
 
 * 9-strcpy.c: Write a function that copies the string pointed to by src, including the terminating
   null byte (\0), to the buffer pointed to by dest
+
+* 100-atoi.c: function that convert a string to an intege
+
+* 101-keygen.c: function that generates random password 
