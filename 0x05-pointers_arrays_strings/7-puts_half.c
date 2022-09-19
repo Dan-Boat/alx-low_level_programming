@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
 * puts_half - print half of a string, followed by new line
 * @str: character parameter pointer
