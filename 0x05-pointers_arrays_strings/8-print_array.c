@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
 * print_array - print elements of array
 * @a: integer parameter pointer
