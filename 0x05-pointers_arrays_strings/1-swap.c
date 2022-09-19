@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include "main.h"
 /**
 * swap_int - funtion that swaps the values of two integers
 * @a: parameter int pointer

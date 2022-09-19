@@ -5,4 +5,4 @@ This exercises  shows how to use pointers and arrays in C.
 
 * 1-swap.c: function that swaps the values of two integers
 
-* 
+* 2-strlen.c: function that returns the length of a string
