@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 * _strcpy - Write a function that copies the string pointed
-* to by src, including the terminating null 
+* to by src, including the terminating null
 * byte (\0), to the buffer pointed to by dest
 * @dest: char type string
 * @src: char type string
