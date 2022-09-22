@@ -11,4 +11,6 @@ Explore more details about pointers and arrays
 
 * 3-strcmp.c - function that compares two strings
 
-* 
+* 4-rev_array.c -  function that reverses the content of an array of integers
+
+*
