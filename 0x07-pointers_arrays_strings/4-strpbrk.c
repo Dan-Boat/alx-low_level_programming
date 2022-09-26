@@ -8,7 +8,7 @@
 char *_strpbrk(char *s, char *accept)
 {
 	int i, j; /* i for s and j for accept*/
-	int *p; /* locate the address found in s*/
+	char *p; /* locate the address found in s*/
 
 	i = 0;
 	while (s[i] != '\0')
