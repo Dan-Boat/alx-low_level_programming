@@ -11,4 +11,8 @@
 * 3-strspn.c: function that gets the length of a prefix substring. Returns the number of bytes in the initial 
     segment of s which consist only of bytes from accept
 
+* 4-strpbrk.c: function that searches a string for any of a set of bytes.
+   The _strpbrk() function locates the first occurrence in the string s 
+   of any of the bytes in the string accept
+
 * 
