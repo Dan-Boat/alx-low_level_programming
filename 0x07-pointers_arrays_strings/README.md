@@ -15,4 +15,8 @@
    The _strpbrk() function locates the first occurrence in the string s 
    of any of the bytes in the string accept
 
+* 7-print_chessboard.c: function that prints chess board
+
+* 8-print_diagsums.c: function that prints the sum of the two diagonals of a square matrix of integers
+
 * 
