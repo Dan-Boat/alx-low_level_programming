@@ -10,5 +10,8 @@ int factorial(int n);
 int _pow_recursion(int x, int y);
 int _sqrt_recursion(int n);
 int get_square(int c, int i);
+is_prime_number(int n);
+int _sqrt(int x, int i);
+int hai(int n, int d);
 
 #endif /* MAIN_H */
