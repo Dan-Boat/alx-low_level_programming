@@ -13,3 +13,10 @@ This repository contains all the project files for low-level programming in the 
 
 * [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings/) covers introduction to pointers and arrays in C (eg. access memmory address and dereferencing)
 
+* [Pointers and arrays](./0x06-pointers_arrays_strings/)
+
+* [More on pointers and arrays](./0x07-pointers_arrays_strings/)
+
+* [C recursion](./0x08-recursion/)
+
+* [Argc and Argv](./0x0A-argc_argv/)
