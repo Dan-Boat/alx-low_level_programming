@@ -22,8 +22,10 @@ int main(int argc, char *argv[])
 			if (!*c)
 				sum += num;
 			else
+			{
 				printf("Error\n");
 				return (1);
+			}
 		}
 	}
 	printf("%d\n", sum);
