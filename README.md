@@ -1,5 +1,6 @@
-# alx-low_level_programming
-This repository contains all the project files for low-level programming in the ALX-SE program
+# C programming: Low level programming (Data structures and algorithm)
+
+This repository contains all the projects for mastering low-level programming from the ALX-Africa Software engineering programm (check their site at [https://www.alxafrica.com/](https://www.alxafrica.com/) for more details)
 
 * The [0x00-hello_world](./0x00-hello_world/) covers the introduction of C and its compilation routines (preprocessing, compiling, assembling, and linking). The task also shows the use of stdout functions like puts, printf, and write.
 
@@ -13,10 +14,15 @@ This repository contains all the project files for low-level programming in the 
 
 * [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings/) covers introduction to pointers and arrays in C (eg. access memmory address and dereferencing)
 
-* [Pointers and arrays](./0x06-pointers_arrays_strings/)
+* [Pointers and arrays](./0x06-pointers_arrays_strings/) covers advance tasks on pointers and arrays
 
-* [More on pointers and arrays](./0x07-pointers_arrays_strings/)
+* [More on pointers and arrays](./0x07-pointers_arrays_strings/) covers more advance tasks on pointers and arrays
 
-* [C recursion](./0x08-recursion/)
+* [C recursion](./0x08-recursion/) introduce the use of functions with a function in C (recursion)
 
-* [Argc and Argv](./0x0A-argc_argv/)
+* [Argc and Argv](./0x0A-argc_argv/) covers how main funciton of C is used to accept arguments from the command line
+
+* [Static libraries](./0x09-static_libraries/) covers how to generate static libraries from C source codes (archiving and indexing)
+
+* [malloc and free](./0x0B-malloc_free/) introduce the concept of dynamic memory allocation
+
