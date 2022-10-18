@@ -1,6 +1,12 @@
-# C programming: Low level programming (Data structures and algorithm)
+<h1> Learning C programming </h1>
+
+<h2> Topics: </h2>
+
+<h3> Data structures and algorithm, functional programming, pointers and many more </h3>
 
 This repository contains all the projects for mastering low-level programming from the ALX-Africa Software engineering programm (check their site at [https://www.alxafrica.com/](https://www.alxafrica.com/) for more details)
+
+<h4> List of folders (various projects) </h4>
 
 * The [0x00-hello_world](./0x00-hello_world/) covers the introduction of C and its compilation routines (preprocessing, compiling, assembling, and linking). The task also shows the use of stdout functions like puts, printf, and write.
 
@@ -31,3 +37,9 @@ This repository contains all the projects for mastering low-level programming fr
 * [0x0D-preprocessor](./0x0D-preprocessor/)
 
 * [0x0E-structures_typedef](./0x0E-structures_typedef/)
+
+* [0x0F-function_pointers](./0x0F-function_pointers/)
+
+* [0x10-variadic_functions](./0x10-variadic_functions/)
+
+@ ALX-SE (Daniel Boateng)
